@@ -15,7 +15,7 @@
   "readme": "https://github.com/Gobrugda/token-action-hud-wfrp4e/blob/master/README.md",
   "changelog": "https://github.com/Gobrugda/token-action-hud-wfrp4e/releases",
   "bugs": "https://github.com/Gobrugda/token-action-hud-wfrp4e/issues",
-  "version": "3.2.1-gobrugda.1"
+  "version": "3.2.1-gobrugda.2",
   "compatibility": {
     "minimum": "12",
     "verified": "13.342"
